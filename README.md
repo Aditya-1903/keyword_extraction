@@ -7,4 +7,6 @@ Term Frequency - Inverse Document Frequency (TF-IDF)
 Rapid Automatic Keyword Extraction (RAKE)  
 Yet Another Keyword Extractor (YAKE)  
 KeyBERT  
-TextRank
+TextRank  
+
+The titles, abstracts and keywords provided by the authors were extracted via the Biopython library using their PubMed ID. The above mentioned techniques were used to extract keywords and their performance was compared by using the gold label keywords proposed by the authors of the papers.
